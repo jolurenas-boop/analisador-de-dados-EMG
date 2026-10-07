@@ -1,0 +1,1 @@
+# analisador-de-dados-EMG
