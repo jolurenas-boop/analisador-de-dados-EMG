@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+pdfplumber
+pingouin
+openpyxl
+weasyprint
+reportlab
